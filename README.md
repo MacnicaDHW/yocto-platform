@@ -31,12 +31,4 @@ Before run `bitbake` setup the environment running:
 source ./setup-environment build
 ```
 
-## Building images
-
-To build `core-image-base` run:
-
-``` shell
-$ bitbake core-image-base
-```
-
-At the end of build the image will be avaiable in build/tmp/deploy/images/$MACHINE
+For full documention visit [this](https://github.com/MacnicaDHW/meta-macnica/blob/master/docs/documentation.org) link.
